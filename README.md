@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm **Karan Kumar**, a Computer Science undergraduate at **LUMS**—passionate about AI, game development, and building impactful tools. I thrive on full-stack projects, open source collaboration, and contributing to tech communities.
+I'm **Karan Kumar**, a Computer Science sophomore at **LUMS**—passionate about AI, game development, and building impactful tools. I thrive on full-stack projects, open source collaboration, and contributing to tech communities.
 
 ---
 
