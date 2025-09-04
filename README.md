@@ -6,7 +6,7 @@ I'm **Karan Kumar**, a Computer Science undergraduate at **LUMS**—passionate a
 
 ### 🚀 About Me
 
-- 🔭 **Currently working on:** Portfolio Websites & Cafeteria Management System
+- 🔭 **Currently working on:** AI Agents, Automation Workflows, LLMS
 - 💬 **Ask me about:** Next.js, TypeScript, C++, Python, React, AI projects
 - 🧠 **Skills:** Python, C++, Ruby, Full-Stack Development, AI/ML
 - 🌱 **Learning:** AI agents, game engines, strategic thinking
