@@ -30,6 +30,7 @@ Explore more in my pinned repos!
 
 - [LinkedIn](https://www.linkedin.com/in/karan-kumar-904141372)
 - [Portfolio](https://karankumar.dev)
+- [Email](karankumar314159@gmail.com)
 
 ---
 
