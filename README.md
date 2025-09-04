@@ -10,7 +10,6 @@ I'm **Karan Kumar**, a Computer Science undergraduate at **LUMS**—passionate a
 - 💬 **Ask me about:** Next.js, TypeScript, C++, Python, React, AI projects
 - 🧠 **Skills:** Python, C++, Ruby, Full-Stack Development, AI/ML
 - 🌱 **Learning:** AI agents, game engines, strategic thinking
-- 🌍 **Portfolio:** [karankumar.dev](https://karankumar.dev)
 
 ---
 
@@ -29,7 +28,6 @@ Explore more in my pinned repos!
 ### 📫 Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/karan-kumar-904141372)
-- [Portfolio](https://karankumar.dev)
 - [Email](karankumar314159@gmail.com)
 
 ---
