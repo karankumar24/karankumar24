@@ -9,7 +9,7 @@ I'm **Karan Kumar**, a Computer Science sophomore at **LUMS**—passionate about
 -  **Currently working on:** AI Agents, Automation Workflows, LLMs
 -  **Ask me about:** Next.js, TypeScript, C++, Python, React, AI projects
 -  **Skills:** Python, C++, Ruby, Full-Stack Development, AI/ML
--  **Learning:** AI agents, game engines, strategic thinking
+-  **Learning:** AI Agents, Game Engines, Server-Side Programming
 
 ---
 
