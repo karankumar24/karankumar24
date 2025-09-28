@@ -32,15 +32,6 @@ Explore more in my pinned repos!
 
 ---
 
-###  Fun Fact: Game of Thrones Strategist
-
-I’m a devoted Game of Thrones aficionado—having binge-watched all eight seasons and pored over George R.R. Martin’s novels to dissect every political maneuver and power play. I analyze Tyrion Lannister’s deft Council tactics, Daenerys’s logistical gambits across Essos, and the Night King’s threat-modeling beyond the Wall.
-
-I debate shifting alliances and siege outcomes with friends over coffee, mapping each plot twist to management theories and risk frameworks.  
-**Winter is coming—and so is my next strategic victory.**
-
----
-
 ###  AI Explorer
 
 I love researching and experimenting with AI agents—always curious about the next breakthrough in autonomous systems!
