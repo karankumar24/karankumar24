@@ -1,14 +1,14 @@
 # Hi there 👋
 
-I'm **Karan Kumar**, a Computer Science sophomore at **LUMS**—passionate about AI, game development, and building impactful tools. I thrive on full-stack projects, open source collaboration, and contributing to tech communities.
+I'm **Karan Kumar**, someone who is passionate about learning AI, game development, and building impactful tools. I thrive on projects that make life easier for people and contribute to tech communities.
 
 ---
 
 ###  About Me
 
 -  **Currently working on:** AI Agents, Automation Workflows, LLMs
--  **Ask me about:** Next.js, TypeScript, C++, Python, React, AI Projects
--  **Skills:** Python, C++, Ruby, Full-Stack Development, AI/ML
+-  **Ask me about:** C++, Python, API Integration, AI Projects
+-  **Skills:** Python, C++, Ruby, AI/ML
 -  **Learning:** AI Agents, Game Engines, Server-Side Programming
 
 ---
@@ -34,7 +34,7 @@ Explore more in my pinned repos!
 
 ###  AI Explorer
 
-I love researching and experimenting with AI agents—always curious about the next breakthrough in autonomous systems!
+I love reading research papers about LLMs, AI agents, and models — always curious about the next breakthrough in autonomous systems!
 
 ---
 
