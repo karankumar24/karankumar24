@@ -1,12 +1,12 @@
 # Hi there 👋
 
-I'm **Karan Kumar**, someone who is passionate about learning AI, game development, and building impactful tools. I thrive on projects that make life easier for people and contribute to tech communities.
+I’m **Karan Kumar**. I’ve been coding for a while, and I’m looking to build something ambitious that makes life easier and contributes to the tech community.
 
 ---
 
 ###  About Me
 
--  **Currently working on:** AI Agents, Automation Workflows, LLMs
+-  **Currently working on:** AI Agents, Automation Workflows (n8n), LLMs
 -  **Ask me about:** C++, Python, API Integration, AI Projects
 -  **Skills:** Python, C++, Ruby, AI/ML
 -  **Learning:** AI Agents, Game Engines, Server-Side Programming
@@ -14,9 +14,6 @@ I'm **Karan Kumar**, someone who is passionate about learning AI, game developme
 ---
 
 ###  Favorite Projects
-
-- [Cafeteria Management System](https://github.com/karankumar24/CafeteriaManagementSystem)  
-  Streamlining campus cafeteria operations with a clean, intuitive system.
 
 - [Portfolio Website](https://github.com/karankumar24/karanWebsite)  
   Personal site showcasing my work, skills, and growth.
@@ -32,9 +29,9 @@ Explore more in my pinned repos!
 
 ---
 
-###  AI Explorer
+###  A little more about me
 
-I love reading research papers about LLMs, AI agents, and models — always curious about the next breakthrough in autonomous systems!
+I love reading research papers about LLMs, AI agents, and newer models — always curious about the next breakthrough in autonomous systems!
 
 ---
 
