@@ -6,7 +6,7 @@ I like working on problems that sound simple until you try them. Getting an AI t
 
 ### Currently building
 
-[LabOS](https://github.com/karankumar24/pdfProtocols) -- reads research PDFs and generates validated lab safety protocols with comprehension scoring and alignment checks
+[LabOS](https://github.com/karankumar24/pdfProtocols). Reads research PDFs and generates validated lab safety protocols with comprehension scoring and alignment checks.
 
 ---
 
