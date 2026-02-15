@@ -1,6 +1,6 @@
 # Karan Kumar
 
-I like working on problems that sound simple until you try them. Getting an AI to read a research paper and produce a safe lab protocol. Scraping ten years of stock prices from a site that gives you a different file format every week.
+I like working on problems that sound simple until you try them. Getting an AI to read a research paper and produce a safe lab protocol. Scraping ten years of stock prices, finding patterns, and trying to predict what comes next. Mostly Python.
 
 ---
 
@@ -30,7 +30,7 @@ I like working on problems that sound simple until you try them. Getting an AI t
 ### Projects
 
 **[LabAI](https://github.com/karankumar24/pdfProtocols)**
-You give it a research paper as a PDF and it generates step-by-step lab protocols, then checks them for safety, comprehension, and alignment with the source material. Python backend, TypeScript frontend, Docker, Kubernetes, WebSocket progress tracking.
+You give it a research paper as a PDF, and it generates step-by-step lab protocols, then checks them for safety, comprehension, and alignment with the source material. Python backend, TypeScript frontend, Docker, Kubernetes, WebSocket progress tracking.
 
 <p>
   <img src="screenshots/labos-overview.png" alt="Screenshot of LabAI protocol generation output" width="800" />
@@ -41,7 +41,7 @@ You give it a research paper as a PDF and it generates step-by-step lab protocol
 </p>
 
 **[PSX Data Pipeline](https://github.com/karankumar24/fincom-psx-pipeline)**
-Scrapes and consolidates ten years of daily stock price data from the Pakistan Stock Exchange. Handles CSV, XLS, XLSX, TSV, and TXT formats, standardizes schemas across all of them, fills in missing trading days, and outputs one clean dataset. Python, pandas, numpy, GitHub Actions CI.
+Scrapes and consolidates ten years of daily stock price data from the Pakistan Stock Exchange. Handles CSV, XLS, XLSX, TSV, and TXT formats, standardizes schemas, fills in missing trading days, and feeds clean data into trend analysis and forecasting models. Python, pandas, numpy, GitHub Actions CI.
 
 ---
 
@@ -51,4 +51,4 @@ Scrapes and consolidates ten years of daily stock price data from the Pakistan S
 [![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-000?&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/karan-kumar-904141372)
 [![Email](https://img.shields.io/badge/-Email-000?&logo=gmail&logoColor=white)](mailto:karankumar314159@gmail.com)
 
-Open to AI/ML and computer science internships and collaboration opportunities.
+Open to internships and collaboration in AI/ML and computer science.
