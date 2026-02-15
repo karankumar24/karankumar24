@@ -33,11 +33,11 @@ I write software that makes sense of messy data, whether that means scraping fiv
 You give it a research paper as a PDF and it generates step-by-step lab protocols, then checks them for safety, comprehension, and alignment with the source material. Python backend, TypeScript frontend, Docker, Kubernetes, WebSocket progress tracking.
 
 <p>
-  <img src="assets/labos-protocol.png" alt="LabOS generated protocol with safety score, step-by-step instructions, and safety notes" width="800" />
+  <img src="screenshots/labos-overview.png" alt="Screenshot of LabOS protocol generation output" width="800" />
 </p>
 
 <p>
-  <img src="assets/labos-steps.png" alt="LabOS detailed protocol steps with safety notes and reagent tracking" width="800" />
+  <img src="screenshots/labos-detail.png" alt="Screenshot of LabOS protocol step detail view" width="800" />
 </p>
 
 **[PSX Data Pipeline](https://github.com/karankumar24/fincom-psx-pipeline)**
