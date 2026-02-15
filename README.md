@@ -6,7 +6,7 @@ I like working on problems that sound simple until you try them. Getting an AI t
 
 ### Currently building
 
-[LabOS](https://github.com/karankumar24/pdfProtocols), a system that reads research PDFs and generates validated lab safety protocols with comprehension scoring and alignment checks.
+[LabAI](https://github.com/karankumar24/pdfProtocols), a system that reads research PDFs and generates validated lab safety protocols with comprehension scoring and alignment checks.
 
 ---
 
@@ -29,15 +29,15 @@ I like working on problems that sound simple until you try them. Getting an AI t
 
 ### Projects
 
-**[LabOS](https://github.com/karankumar24/pdfProtocols)**
+**[LabAI](https://github.com/karankumar24/pdfProtocols)**
 You give it a research paper as a PDF and it generates step-by-step lab protocols, then checks them for safety, comprehension, and alignment with the source material. Python backend, TypeScript frontend, Docker, Kubernetes, WebSocket progress tracking.
 
 <p>
-  <img src="screenshots/labos-overview.png" alt="Screenshot of LabOS protocol generation output" width="800" />
+  <img src="screenshots/labos-overview.png" alt="Screenshot of LabAI protocol generation output" width="800" />
 </p>
 
 <p>
-  <img src="screenshots/labos-detail.png" alt="Screenshot of LabOS protocol step detail view" width="800" />
+  <img src="screenshots/labos-detail.png" alt="Screenshot of LabAI protocol step detail view" width="800" />
 </p>
 
 **[PSX Data Pipeline](https://github.com/karankumar24/fincom-psx-pipeline)**
