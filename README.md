@@ -1,6 +1,6 @@
 # Karan Kumar
 
-I write software that makes sense of messy data, whether that means scraping five years of stock prices off the Pakistan Stock Exchange or getting an AI to read a research paper and turn it into a safe lab protocol.
+I like working on problems that sound simple until you try them. Getting an AI to read a research paper and produce a safe lab protocol. Scraping ten years of stock prices from a site that gives you a different file format every week.
 
 ---
 
@@ -41,7 +41,7 @@ You give it a research paper as a PDF and it generates step-by-step lab protocol
 </p>
 
 **[PSX Data Pipeline](https://github.com/karankumar24/fincom-psx-pipeline)**
-Scrapes and consolidates five years of daily stock price data from the Pakistan Stock Exchange. Handles CSV, XLS, XLSX, TSV, and TXT formats, standardizes schemas across all of them, fills in missing trading days, and outputs one clean dataset. Python, pandas, numpy, GitHub Actions CI.
+Scrapes and consolidates ten years of daily stock price data from the Pakistan Stock Exchange. Handles CSV, XLS, XLSX, TSV, and TXT formats, standardizes schemas across all of them, fills in missing trading days, and outputs one clean dataset. Python, pandas, numpy, GitHub Actions CI.
 
 ---
 
