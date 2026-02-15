@@ -32,14 +32,6 @@ I like working on problems that sound simple until you try them. Getting an AI t
 **[LabAI](https://github.com/karankumar24/pdfProtocols)**
 You give it a research paper as a PDF, and it generates step-by-step lab protocols, then checks them for safety, comprehension, and alignment with the source material. Python backend, TypeScript frontend, Docker, Kubernetes, WebSocket progress tracking.
 
-<p>
-  <img src="screenshots/labos-overview.png" alt="Screenshot of LabAI protocol generation output" width="800" />
-</p>
-
-<p>
-  <img src="screenshots/labos-detail.png" alt="Screenshot of LabAI protocol step detail view" width="800" />
-</p>
-
 **[PSX Data Pipeline](https://github.com/karankumar24/fincom-psx-pipeline)**
 Scrapes and consolidates ten years of daily stock price data from the Pakistan Stock Exchange. Handles CSV, XLS, XLSX, TSV, and TXT formats, standardizes schemas, fills in missing trading days, and feeds clean data into trend analysis and forecasting models. Python, pandas, numpy, GitHub Actions CI.
 
