@@ -40,11 +40,7 @@ You give it a research paper as a PDF and it generates step-by-step lab protocol
 ### Connect
 
 [![Website](https://img.shields.io/badge/-karankumar.dev-000?&logo=google-chrome&logoColor=white)](https://karankumar.dev)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=0A66C2)](https://www.linkedin.com/in/karan-kumar-904141372)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/karan-kumar-904141372)
 [![Email](https://img.shields.io/badge/-Email-000?&logo=gmail&logoColor=white)](mailto:karankumar314159@gmail.com)
 
 Open to internship and collaboration opportunities.
-
----
-
-<img height="137px" src="https://github-readme-stats.vercel.app/api?username=karankumar24&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=21&theme=tokyonight" /><img height="137px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=karankumar24&hide_title=true&hide_border=true&layout=compact&langs_count=6&theme=tokyonight" />
