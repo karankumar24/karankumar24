@@ -29,18 +29,26 @@ I write software that makes sense of messy data, whether that means scraping fiv
 
 ### Projects
 
-**[PSX Data Pipeline](https://github.com/karankumar24/fincom-psx-pipeline)**
-Scrapes and consolidates five years of daily stock price data from the Pakistan Stock Exchange. Handles CSV, XLS, XLSX, TSV, and TXT formats, standardizes schemas across all of them, fills in missing trading days, and outputs one clean dataset. Originally included an 8-month weekly price forecasting model with trend detection. Python, pandas, numpy, GitHub Actions CI.
-
 **[LabOS](https://github.com/karankumar24/pdfProtocols)**
 You give it a research paper as a PDF and it generates step-by-step lab protocols, then checks them for safety, comprehension, and alignment with the source material. Python backend, TypeScript frontend, Docker, Kubernetes, WebSocket progress tracking.
+
+<p>
+  <img src="assets/labos-protocol.png" alt="LabOS generated protocol with safety score, step-by-step instructions, and safety notes" width="800" />
+</p>
+
+<p>
+  <img src="assets/labos-steps.png" alt="LabOS detailed protocol steps with safety notes and reagent tracking" width="800" />
+</p>
+
+**[PSX Data Pipeline](https://github.com/karankumar24/fincom-psx-pipeline)**
+Scrapes and consolidates five years of daily stock price data from the Pakistan Stock Exchange. Handles CSV, XLS, XLSX, TSV, and TXT formats, standardizes schemas across all of them, fills in missing trading days, and outputs one clean dataset. Python, pandas, numpy, GitHub Actions CI.
 
 ---
 
 ### Connect
 
 [![Website](https://img.shields.io/badge/-karankumar.dev-000?&logo=google-chrome&logoColor=white)](https://karankumar.dev)
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-000?&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/karan-kumar-904141372)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/-LinkedIn-000?&logo=linkedin-white&logoColor=white)](https://www.linkedin.com/in/karan-kumar-904141372)
 [![Email](https://img.shields.io/badge/-Email-000?&logo=gmail&logoColor=white)](mailto:karankumar314159@gmail.com)
 
-Open to internship and collaboration opportunities.
+Open to AI/ML and computer science internships and collaboration opportunities.
