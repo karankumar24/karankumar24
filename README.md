@@ -1,6 +1,6 @@
 # Karan Kumar
 
-I like working on problems that sound simple until you try them. Getting an AI to read a research paper and produce a safe lab protocol. Scraping ten years of stock prices, finding patterns, and trying to predict what comes next. Mostly Python.
+I like working on problems that sound simple until you try them. That might mean building an AI system that reads a research paper and turns it into a careful, step-by-step lab protocol, or pulling ten years of stock price data, finding patterns, and trying to predict what comes next. I mostly write in Python.
 
 ---
 
