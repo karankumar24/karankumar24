@@ -13,15 +13,15 @@ I like working on problems that look simple until you try them. Figuring out how
 <p align="left">
   <a href="https://www.linkedin.com/in/karan-kumar-904141372" target="_blank" rel="noopener noreferrer" title="LinkedIn">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-         alt="LinkedIn" width="25" height="25" align="middle" />
+         alt="LinkedIn" width="40" height="40" align="middle" />
   </a>&nbsp;&nbsp;
   <a href="mailto:karankumar314159@gmail.com" title="Email">
     <img src="https://cdn.simpleicons.org/gmail/D14836"
-         alt="Email" width="25" height="25" align="middle" />
+         alt="Email" width="40" height="40" align="middle" />
   </a>&nbsp;&nbsp;
   <a href="https://karankumar.dev" target="_blank" rel="noopener noreferrer" title="Website">
     <img src="https://cdn.simpleicons.org/googlechrome/4285F4"
-         alt="Website" width="25" height="25" align="middle" />
+         alt="Website" width="40" height="40" align="middle" />
   </a>
 </p>
 
