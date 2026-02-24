@@ -17,11 +17,11 @@ I like working on problems that look simple until you try them. Figuring out how
   </a>&nbsp;&nbsp;
   <a href="mailto:karankumar314159@gmail.com" title="Email">
     <img src="https://cdn.simpleicons.org/gmail/D14836"
-         alt="Email" width="40" height="40" align="middle" />
+         alt="Email" width="40" height="40" align="center" />
   </a>&nbsp;&nbsp;
   <a href="https://karankumar.dev" target="_blank" rel="noopener noreferrer" title="Website">
     <img src="https://cdn.simpleicons.org/googlechrome/4285F4"
-         alt="Website" width="40" height="40" align="middle" />
+         alt="Website" width="40" height="40" align="center" />
   </a>
 </p>
 
