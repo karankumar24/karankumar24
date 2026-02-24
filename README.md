@@ -13,7 +13,7 @@ I like working on problems that look simple until you try them. Figuring out how
 <p align="left">
   <!-- Use simpleicons SVGs at the same size as other icons for consistent appearance -->
   <a href="https://www.linkedin.com/in/karan-kumar-904141372" target="_blank" title="LinkedIn">
-    <img alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin/0077B5" height="44" />
+    <img alt="LinkedIn" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/linkedin.svg" height="44" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:karankumar314159@gmail.com" target="_blank" title="Email">
