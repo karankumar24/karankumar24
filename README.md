@@ -11,16 +11,34 @@ I like working on problems that look simple until you try them. Figuring out how
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-      <a href="https://www.linkedin.com/in/karan-kumar-904141372" target="_blank" title="LinkedIn">
-    <img alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin/0077B5" height="44" />
-      </a>  
-  &nbsp;&nbsp;
-   <a href="mailto:karankumar314159@gmail.com" target="_blank" title="Email">
-    <img alt="Email" src="https://cdn.simpleicons.org/gmail/D14836" height="44" />
+  <a href="https://www.linkedin.com/in/karan-kumar-904141372" target="_blank" rel="noopener noreferrer" title="LinkedIn">
+    <img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+      alt="karan-kumar-LinkedIn"
+      height="30"
+      width="40"
+    />
   </a>
   &nbsp;&nbsp;
-  <a href="https://karankumar.dev" target="_blank" title="Website">
-    <img alt="Website" src="https://cdn.simpleicons.org/googlechrome/4285F4" height="44" />
+  <a href="mailto:karankumar314159@gmail.com" target="_blank" rel="noopener noreferrer" title="Email">
+    <img
+      align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/envelope.svg"
+      alt="karankumar-email"
+      height="30"
+      width="40"
+    />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://karankumar.dev" target="_blank" rel="noopener noreferrer" title="Website">
+    <img
+      align="center"
+      src="https://cdn.simpleicons.org/googlechrome/4285F4"
+      alt="karankumar-website"
+      height="30"
+      width="40"
+    />
   </a>
 </p>
 
