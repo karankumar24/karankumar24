@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Karan Kumar</h1>
 <h3 align="center">A passionate developer and student from Modesto, California.</h3>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=karankumar24&label=Profile%20views&color=0e75b6&style=flat" alt="karankumar24 — profile views" />
+</p>
+
+<p align="left">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=karankumar24&theme=flat&row=1&column=7" alt="karankumar24" />
+  </a>
+</p>
+
 I like working on problems that look simple until you try them. Figuring out how to get an AI to read research papers and write usable lab protocols, scraping years of stock prices to find patterns, and building tools that help people in tricky conversations are the things I enjoy building.
 
 <h3 align="left">Connect with me:</h3>
