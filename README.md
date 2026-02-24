@@ -9,9 +9,25 @@
 I like working on problems that look simple until you try them. Figuring out how to get an AI to read research papers and write usable lab protocols, scraping years of stock prices to find patterns, and building tools that help people in tricky conversations are the things I enjoy building.
 </p>
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+  <!-- Use repository-hosted icons for consistent, reliable rendering.
+       Place the icon files at: assets/icons/linkedin.svg and assets/icons/openai.svg in your repo. -->
+  <a href="https://www.linkedin.com/in/karan-kumar-904141372" target="_blank" title="LinkedIn">
+    <img alt="LinkedIn" src="./assets/icons/linkedin.svg" height="44" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:karankumar314159@gmail.com" target="_blank" title="Email">
+    <img alt="Email" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" height="44" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://karankumar.dev" target="_blank" title="Website">
+    <img alt="Website" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlechrome.svg" height="44" />
+  </a>
+</p>
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <!-- Keep icons uniform (44px). Use jsDelivr for devicons and raw GitHub Simple Icons for others to ensure consistent SVG rendering -->
   <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="44" />
   <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="44" />
   <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="44" />
@@ -35,12 +51,13 @@ I like working on problems that look simple until you try them. Figuring out how
   <img alt="Pandas" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" height="44" />
   <img alt="NumPy" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg" height="44" />
 
-  <!-- OpenAI: raw GitHub-hosted Simple Icons SVG so it matches other icons -->
-  <img alt="OpenAI" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" height="44" />
+  <!-- OpenAI: repository-hosted icon for reliability; place at assets/icons/openai.svg -->
+  <img alt="OpenAI" src="./assets/icons/openai.svg" height="44" />
   <img alt="Anthropic" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/anthropic.svg" height="44" />
 
   <img alt="Tailwind CSS" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tailwindcss.svg" height="44" />
 </p>
+
 <h3 align="left">Contributions:</h3>
 <p align="left">
   <!-- Streak preserved as requested -->
