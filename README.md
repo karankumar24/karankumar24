@@ -19,8 +19,6 @@ I like working on problems that look simple until you try them. Figuring out how
     <img alt="Email" src="https://cdn.simpleicons.org/gmail/D14836" height="44" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://karankumar.dev" target="_blank" rel="noopener noreferrer" title="Website">
-    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/googlechrome.svg" alt="Website" height="44" width="44" />
   <a href="https://karankumar.dev" target="_blank" title="Website">
     <img alt="Website" src="https://cdn.simpleicons.org/googlechrome/4285F4" height="44" />
   </a>
