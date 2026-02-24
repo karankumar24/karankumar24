@@ -1,4 +1,4 @@
-<<h1 align="center">Hi 👋, I'm Karan Kumar</h1>
+<h1 align="center">Hi 👋, I'm Karan Kumar</h1>
 <h3 align="center">A passionate developer and student from Modesto, California.</h3>
 
 ---
