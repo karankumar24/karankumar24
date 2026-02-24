@@ -46,14 +46,13 @@ I like working on problems that look simple until you try them. Figuring out how
   <img alt="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="44" />
   <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="44" />
   <img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="44" />
-  <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="44" />
 
   <img alt="Pandas" src="https://cdn.simpleicons.org/pandas/150458" height="44" />
   <img alt="NumPy" src="https://cdn.simpleicons.org/numpy/013243" height="44" />
 
   <!-- OpenAI: switched to simpleicons SVG at same size so it matches other icons -->
-  <img alt="OpenAI" src="https://cdn.simpleicons.org/openai/000000" height="44" />
-  <img alt="Anthropic" src="https://cdn.simpleicons.org/anthropic/00BFA6" height="44" />
+  <img alt="OpenAI" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/openai.svg" height="44" />
+  <img alt="Anthropic" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/anthropic.svg" height="44" />
 
   <img alt="Tailwind CSS" src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="44" />
 </p>
