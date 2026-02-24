@@ -34,26 +34,18 @@ I like working on problems that look simple until you try them. Figuring out how
   <img alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="44" />
   <img alt="Ruby" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="44" />
   <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="44" />
-
   <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="44" />
-  <img alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="44" />
-
   <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="44" />
   <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="44" />
   <img alt="Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="44" />
-
   <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="44" />
   <img alt="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="44" />
   <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="44" />
   <img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="44" />
-
   <img alt="Pandas" src="https://cdn.simpleicons.org/pandas/150458" height="44" />
   <img alt="NumPy" src="https://cdn.simpleicons.org/numpy/013243" height="44" />
-
-  <!-- OpenAI: switched to simpleicons SVG at same size so it matches other icons -->
   <img alt="OpenAI" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/openai.svg" height="44" />
-  <img alt="Anthropic" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/anthropic.svg" height="44" />
-
+  <img alt="Anthropic" src="https://cdn.simpleicons.org/anthropic/00BFA6" height="44" />
   <img alt="Tailwind CSS" src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="44" />
 </p>
 
