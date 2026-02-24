@@ -12,7 +12,7 @@ I like working on problems that look simple until you try them. Figuring out how
 <h3 align="left">Connect with me:</h3>
 <div align="left" style="display:flex; align-items:center; gap:8px;">
   <a href="https://www.linkedin.com/in/karan-kumar-904141372" target="_blank" rel="noopener noreferrer" title="LinkedIn" style="text-decoration:none; display:inline-block;">
-    <span style="display:inline-flex; width:10px; height:10px; align-items:center; justify-content:center;">
+    <span style="display:inline-flex; width:2px; height:2px; align-items:center; justify-content:center;">
       <img
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
         alt="LinkedIn"
@@ -22,7 +22,7 @@ I like working on problems that look simple until you try them. Figuring out how
   </a>
 
   <a href="mailto:karankumar314159@gmail.com" title="Email" style="text-decoration:none; display:inline-block;">
-    <span style="display:inline-flex; width:10px; height:10px; align-items:center; justify-content:center;">
+    <span style="display:inline-flex; width:2px; height:2px; align-items:center; justify-content:center;">
       <img
         src="https://cdn.simpleicons.org/gmail/D14836"
         alt="Email"
@@ -32,7 +32,7 @@ I like working on problems that look simple until you try them. Figuring out how
   </a>
 
   <a href="https://karankumar.dev" target="_blank" rel="noopener noreferrer" title="Website" style="text-decoration:none; display:inline-block;">
-    <span style="display:inline-flex; width:10px; height:10px; align-items:center; justify-content:center;">
+    <span style="display:inline-flex; width:2px; height:2px; align-items:center; justify-content:center;">
       <img
         src="https://cdn.simpleicons.org/googlechrome/4285F4"
         alt="Website"
