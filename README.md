@@ -1,13 +1,11 @@
-<p align="center"><h1>Hi 👋, I'm Karan Kumar</h1></p>
-
-<p align="center"><strong>A passionate developer from Modesto, California who enjoys building useful things and learning something new every day.</strong></p>
+<<h1 align="center">Hi 👋, I'm Karan Kumar</h1>
+<h3 align="center">A passionate developer and student from Modesto, California.</h3>
 
 ---
 
 I like working on problems that look simple until you try them. Figuring out how to get an AI to read research papers and write usable lab protocols, scraping years of stock prices to find patterns, and building tools that help people in tricky conversations are the things I enjoy building.
 
-## Connect with me
-
+<h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/karan-kumar-904141372" target="_blank" title="LinkedIn">
     <img alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin/0077B5" height="40" />
