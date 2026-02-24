@@ -40,7 +40,7 @@ I like working on problems that look simple until you try them. Figuring out how
       width="40"
     />
   </a>
-</p>>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
