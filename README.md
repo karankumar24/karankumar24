@@ -5,7 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=karankumar24&label=Profile%20views&color=0e75b6&style=flat" alt="karankumar24 — profile views" />
 </p>
 
-<!-- Trophies: kept, but many trophy services are unstable. A reliable fallback is provided below. -->
 <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy" title="GitHub trophies">
     <img src="https://github-profile-trophy.vercel.app/?username=karankumar24&theme=flat&no-frame=true" alt="karankumar24 trophies" />
@@ -18,11 +17,13 @@ I like working on problems that look simple until you try them. Figuring out how
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <!-- LinkedIn: use the simpleicons logo so it looks like a logo -->
+  <!-- LinkedIn: switched to a shields.io badge with the LinkedIn logo for better reliability -->
   <a href="https://www.linkedin.com/in/karan-kumar-904141372" target="_blank" title="LinkedIn">
-    <img alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin/0077B5" height="40" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Karan%20Kumar-0077B5?logo=linkedin&logoColor=white&style=flat-square" height="28" />
   </a>
   &nbsp;&nbsp;
+
+  <!-- Email and Website icons (simpleicons) kept -->
   <a href="mailto:karankumar314159@gmail.com" target="_blank" title="Email">
     <img alt="Email" src="https://cdn.simpleicons.org/gmail/D14836" height="40" />
   </a>
@@ -62,8 +63,8 @@ I like working on problems that look simple until you try them. Figuring out how
   <img alt="Pandas" src="https://cdn.simpleicons.org/pandas/150458" height="44" />
   <img alt="NumPy" src="https://cdn.simpleicons.org/numpy/013243" height="44" />
 
-  <!-- AI / LLMs -->
-  <img alt="OpenAI" src="https://cdn.simpleicons.org/openai/412991" height="44" />
+  <!-- AI / LLMs: switched OpenAI to a shields.io badge with the OpenAI logo for reliability -->
+  <img alt="OpenAI" src="https://img.shields.io/badge/OpenAI-API-000000?logo=openai&logoColor=white&style=flat-square" height="28" />
   <img alt="Anthropic" src="https://cdn.simpleicons.org/anthropic/00BFA6" height="44" />
 
   <!-- Styling / misc -->
@@ -72,23 +73,15 @@ I like working on problems that look simple until you try them. Figuring out how
 
 <h3 align="left">Contributions:</h3>
 <p align="left">
-  <!-- Primary compact stats (removed count_private to reduce failures). Added cache_seconds for better caching. -->
-  <img src="https://github-readme-stats.vercel.app/api?username=karankumar24&show_icons=true&theme=dark&hide_border=true&cache_seconds=86400" alt="GitHub compact stats" />
-  <br/>
-
-  <!-- Streak (re-added as requested). Note: the original streak service (herokuapp) is often unreliable.
-       If it doesn't load for you, use the contribution graph below (always shown) as a fallback. -->
+  <!-- Streak: preserved as requested (note: this service is sometimes unstable, but kept per your request) -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=karankumar24&theme=dark" alt="GitHub streak stats" />
+
   <br/>
 
-  <!-- Contribution graph as a stable visual fallback -->
-  <img src="https://ghchart.rshah.org/karankumar24" alt="Contribution graph" />
-  <br/>
-
-  <!-- Small reliable fallback badges (followers + public repos) in case the stats image fails to render -->
+  <!-- Reliable numeric stats using shields.io (followers + public repos) to replace the large compact image that was failing -->
   <img src="https://img.shields.io/github/followers/karankumar24?label=Followers&style=flat-square&logo=github" alt="Followers" />
   &nbsp;
-  <img src="https://img.shields.io/github/repo-size/karankumar24/karankumar24?label=Repo%20size&style=flat-square&logo=github" alt="Repo size" />
+  <img src="https://img.shields.io/github/repos/karankumar24?label=Public%20repos&style=flat-square&logo=github" alt="Public repos" />
 </p>
 
 <p>
