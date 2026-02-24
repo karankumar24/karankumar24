@@ -20,8 +20,7 @@ I like working on problems that look simple until you try them. Figuring out how
   </a>
 </p>
 
-## Languages and Tools
-
+<h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- Languages (important first), icons 44px -->
   <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="44" />
