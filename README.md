@@ -21,10 +21,10 @@ I like working on problems that look simple until you try them. Figuring out how
     />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:karankumar314159@gmail.com" target="_blank" rel="noopener noreferrer" title="Email">
+  <a href="mailto:karankumar314159@gmail.com" title="Email">
     <img
       align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/envelope.svg"
+      src="https://cdn.simpleicons.org/gmail/D14836"
       alt="karankumar-email"
       height="30"
       width="40"
@@ -40,7 +40,7 @@ I like working on problems that look simple until you try them. Figuring out how
       width="40"
     />
   </a>
-</p>
+</p>>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
