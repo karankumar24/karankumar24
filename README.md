@@ -12,16 +12,16 @@ I like working on problems that look simple until you try them. Figuring out how
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <!-- Use simpleicons SVGs at the same size as other icons for consistent appearance -->
-  <a href="https://www.linkedin.com/in/karan-kumar-904141372" target="_blank" rel="noreferrer" title="LinkedIn">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="44" width="44" />
+   <a href="https://www.linkedin.com/in/karan-kumar-904141372" target="_blank" title="LinkedIn">
+    <img alt="LinkedIn" src="./assets/icons/linkedin.svg" height="44" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:karankumar314159@gmail.com" target="_blank" rel="noreferrer" title="Email">
-    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/gmail.svg" alt="Email" height="44" width="44" />
+  <a href="mailto:karankumar314159@gmail.com" target="_blank" title="Email">
+    <img alt="Email" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" height="44" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://karankumar.dev" target="_blank" rel="noreferrer" title="Website">
-    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/googlechrome.svg" alt="Website" height="44" width="44" />
+  <a href="https://karankumar.dev" target="_blank" title="Website">
+    <img alt="Website" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlechrome.svg" height="44" />
   </a>
 </p>
 
