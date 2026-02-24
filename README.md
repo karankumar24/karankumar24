@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Karan Kumar</h1>
 <h3 align="center">A passionate developer and student from Modesto, California.</h3>
 
----
-
 I like working on problems that look simple until you try them. Figuring out how to get an AI to read research papers and write usable lab protocols, scraping years of stock prices to find patterns, and building tools that help people in tricky conversations are the things I enjoy building.
 
 <h3 align="left">Connect with me:</h3>
