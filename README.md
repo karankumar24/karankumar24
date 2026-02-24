@@ -16,7 +16,7 @@ I like working on problems that look simple until you try them. Figuring out how
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://www.linkedin.com/in/karan-kumar-904141372" target="_blank" title="LinkedIn">
-    <img alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin/0077B5" height="40" />
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-Karan%20Kumar-0077B5?logo=linkedin&logoColor=white" height="28" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:karankumar314159@gmail.com" target="_blank" title="Email">
