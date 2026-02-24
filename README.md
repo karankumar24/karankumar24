@@ -68,10 +68,11 @@ I like working on problems that look simple until you try them. Figuring out how
 
 <h3 align="left">Contributions:</h3>
 <p align="left">
-  <!-- compact stats + streak (left aligned) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=karankumar24&show_icons=true&theme=dark&count_private=true" alt="GitHub compact stats" />
+  <!-- GitHub stats with caching to reduce failures -->
+  <img src="https://github-readme-stats.vercel.app/api?username=karankumar24&show_icons=true&theme=dark&count_private=true&cache_seconds=86400" alt="GitHub compact stats" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karankumar24&theme=dark" alt="GitHub streak stats" />
+  <!-- Contribution graph (alternative to streak service which is often down) -->
+  <img src="https://ghchart.rshah.org/karankumar24" alt="Contribution graph" />
 </p>
 
 Open to internships and collaboration in AI/ML and computer science.
