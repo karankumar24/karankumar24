@@ -11,14 +11,11 @@ I like working on problems that look simple until you try them. Figuring out how
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <!-- Use simpleicons SVGs at the same size as other icons for consistent appearance -->
-    <a href="https://www.linkedin.com/in/karan-kumar-904141372" target="_blank" title="LinkedIn">
+      <a href="https://www.linkedin.com/in/karan-kumar-904141372" target="_blank" title="LinkedIn">
     <img alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin/0077B5" height="44" />
-  </a>
+      </a>  
   &nbsp;&nbsp;
-  <a href="mailto:karankumar314159@gmail.com" target="_blank" rel="noopener noreferrer" title="Email">
-    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/gmail.svg" alt="Email" height="44" width="44" />
-  <a href="mailto:karankumar314159@gmail.com" target="_blank" title="Email">
+   <a href="mailto:karankumar314159@gmail.com" target="_blank" title="Email">
     <img alt="Email" src="https://cdn.simpleicons.org/gmail/D14836" height="44" />
   </a>
   &nbsp;&nbsp;
