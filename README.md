@@ -16,7 +16,7 @@ I like working on problems that look simple until you try them. Figuring out how
       <img
         src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
         alt="LinkedIn"
-        style="max-width:18px; max-height:18px; display:block;"
+        style="max-width:8px; max-height:8px; display:block;"
       />
     </span>
   </a>
@@ -26,7 +26,7 @@ I like working on problems that look simple until you try them. Figuring out how
       <img
         src="https://cdn.simpleicons.org/gmail/D14836"
         alt="Email"
-        style="max-width:18px; max-height:18px; display:block;"
+        style="max-width:8px; max-height:8px; display:block;"
       />
     </span>
   </a>
@@ -36,7 +36,7 @@ I like working on problems that look simple until you try them. Figuring out how
       <img
         src="https://cdn.simpleicons.org/googlechrome/4285F4"
         alt="Website"
-        style="max-width:18px; max-height:18px; display:block;"
+        style="max-width:8px; max-height:8px; display:block;"
       />
     </span>
   </a>
