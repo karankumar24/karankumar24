@@ -64,16 +64,6 @@ I like working on problems that look simple until you try them. Figuring out how
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=karankumar24&theme=dark" alt="GitHub streak stats" />
   <br/>
 
-  <!-- Reliable numeric stats (shields.io) to avoid the failing compact image -->
-  <img src="https://img.shields.io/github/followers/karankumar24?label=Followers&style=flat-square&logo=github" alt="Followers" />
-  &nbsp;
-  <img src="https://img.shields.io/github/repos/karankumar24?label=Public%20repos&style=flat-square&logo=github" alt="Public repos" />
-  <br/>
-
-  <!-- Contribution graph as a visual fallback -->
-  <img src="https://ghchart.rshah.org/karankumar24" alt="Contribution graph" />
-</p>
-
 <p>
 Open to internships and collaboration in AI/ML and computer science.
 </p>
