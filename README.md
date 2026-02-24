@@ -58,8 +58,7 @@ I like working on problems that look simple until you try them. Figuring out how
   <img alt="Tailwind CSS" src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="44" />
 </p>
 
-## Contributions
-
+<h3 align="left">Contributions:</h3>
 <p align="left">
   <!-- compact stats + streak (left aligned) -->
   <img src="https://github-readme-stats.vercel.app/api?username=karankumar24&show_icons=true&theme=dark&count_private=true" alt="GitHub compact stats" />
