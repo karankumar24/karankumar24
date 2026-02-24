@@ -11,51 +11,46 @@ I like working on problems that look simple until you try them. Figuring out how
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <!-- Use repository-hosted icons for consistent, reliable rendering.
-       Place the icon files at: assets/icons/linkedin.svg and assets/icons/openai.svg in your repo. -->
-  <a href="https://www.linkedin.com/in/karan-kumar-904141372" target="_blank" title="LinkedIn">
-    <img alt="LinkedIn" src="./assets/icons/linkedin.svg" height="44" />
+  <!-- Use simpleicons SVGs at the same size as other icons for consistent appearance -->
+    <a href="https://www.linkedin.com/in/karan-kumar-904141372" target="_blank" title="LinkedIn">
+    <img alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin/0077B5" height="44" />
   </a>
   &nbsp;&nbsp;
+  <a href="mailto:karankumar314159@gmail.com" target="_blank" rel="noopener noreferrer" title="Email">
+    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/gmail.svg" alt="Email" height="44" width="44" />
   <a href="mailto:karankumar314159@gmail.com" target="_blank" title="Email">
-    <img alt="Email" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/gmail.svg" height="44" />
+    <img alt="Email" src="https://cdn.simpleicons.org/gmail/D14836" height="44" />
   </a>
   &nbsp;&nbsp;
+  <a href="https://karankumar.dev" target="_blank" rel="noopener noreferrer" title="Website">
+    <img align="center" src="https://raw.githubusercontent.com/simple-icons/simple-icons/master/icons/googlechrome.svg" alt="Website" height="44" width="44" />
   <a href="https://karankumar.dev" target="_blank" title="Website">
-    <img alt="Website" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlechrome.svg" height="44" />
+    <img alt="Website" src="https://cdn.simpleicons.org/googlechrome/4285F4" height="44" />
   </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
+  <!-- Keep icons uniform (44px) -->
   <img alt="Python" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="44" />
   <img alt="TypeScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="44" />
   <img alt="JavaScript" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="44" />
   <img alt="C++" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="44" />
   <img alt="Ruby" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" height="44" />
   <img alt="Node.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="44" />
-
   <img alt="React" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="44" />
-  <img alt="Next.js" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="44" />
-
   <img alt="PostgreSQL" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="44" />
   <img alt="MongoDB" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="44" />
   <img alt="Redis" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="44" />
-
   <img alt="Docker" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="44" />
   <img alt="Kubernetes" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="44" />
   <img alt="Git" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="44" />
   <img alt="Linux" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="44" />
-  <img alt="GitHub" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="44" />
-
-  <img alt="Pandas" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/pandas.svg" height="44" />
-  <img alt="NumPy" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/numpy.svg" height="44" />
-
-  <!-- OpenAI: repository-hosted icon for reliability; place at assets/icons/openai.svg -->
-  <img alt="OpenAI" src="./assets/icons/openai.svg" height="44" />
-  <img alt="Anthropic" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/anthropic.svg" height="44" />
-
-  <img alt="Tailwind CSS" src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tailwindcss.svg" height="44" />
+  <img alt="Pandas" src="https://cdn.simpleicons.org/pandas/150458" height="44" />
+  <img alt="NumPy" src="https://cdn.simpleicons.org/numpy/013243" height="44" />
+  <img alt="OpenAI" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/openai.svg" height="44" />
+  <img alt="Anthropic" src="https://cdn.simpleicons.org/anthropic/00BFA6" height="44" />
+  <img alt="Tailwind CSS" src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="44" />
 </p>
 
 <h3 align="left">Contributions:</h3>
