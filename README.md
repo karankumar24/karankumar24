@@ -52,7 +52,7 @@ I like working on problems that look simple until you try them. Sometimes that m
 <h3 align="left">Contributions:</h3>
 <p align="left">
   <!-- Streak preserved as requested -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karankumar24&theme=dark" alt="GitHub streak stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karankumar24&theme=light" alt="GitHub streak stats" />
   <br/>
 
 <p>
