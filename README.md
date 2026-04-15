@@ -12,7 +12,7 @@ I like working on problems that look simple until you try them. Sometimes that m
 ##  Projects
 | Project | Product | Repo | What it does | Focus |
 | --- | --- | --- | --- | --- |
-| **Tensa** | [Website](https://tensaa.vercel.app) | Private (`claudecoding/moveai`) | AI calisthenics form coach: real-time pose detection + LLM feedback to improve technique and consistency. | CV + LLM • Next.js • Supabase • Stripe |
+| **Tensa** | [Website](https://tensaa.vercel.app) | Private | AI calisthenics form coach: real-time pose detection + LLM feedback to improve technique and consistency. | CV + LLM • Next.js • Supabase • Stripe |
 | **Haggl** | [Website](https://haggl.vercel.app) | Private | Turn-by-turn negotiation copilot (salary focused): strategy prep, live coaching, and post-review analysis. | Product UX • LLM logic • Next.js • Drizzle |
 | **LabOS** | [Website](https://labprotocols.vercel.app) | Private | Private (`pdfProtocols`) | PDF → lab protocol pipeline: parse methods, generate step-by-step protocols, safety validation, and RAG-backed recall. | FastAPI • RAG/pgvector • eval/safety |
 
