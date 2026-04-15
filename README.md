@@ -26,6 +26,8 @@ I like working on problems that look simple until you try them. Sometimes that m
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
   <!-- From your original (kept), rendered in Max-style badges -->
+  <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-111111?style=for-the-badge&logo=anthropic&logoColor=white" />
+  <img alt="Codex" src="https://img.shields.io/badge/Codex-000000?style=for-the-badge&logo=openai&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img alt="C++" src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img alt="Ruby" src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" />
