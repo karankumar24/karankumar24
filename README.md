@@ -11,15 +11,9 @@ I like working on problems that look simple until you try them. Sometimes that m
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://www.linkedin.com/in/karan-kumar-904141372" target="_blank" rel="noopener noreferrer" title="LinkedIn">
-    <img alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin/0A66C2" height="44" />
-  </a>&nbsp;&nbsp;
-  <a href="mailto:karankumar314159@gmail.com" title="Email">
-    <img alt="Gmail" src="https://cdn.simpleicons.org/gmail/EA4335" height="44" />
-  </a>&nbsp;&nbsp;
-  <a href="https://karankumar.dev" target="_blank" rel="noopener noreferrer" title="Website">
-    <img alt="Google Chrome" src="https://cdn.simpleicons.org/googlechrome/4285F4" height="44" />
-  </a>
+  <a href="https://www.linkedin.com/in/karan-kumar-904141372" target="_blank" rel="noopener noreferrer" title="LinkedIn"><img alt="LinkedIn" src="https://cdn.simpleicons.org/linkedin/0A66C2" height="44" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="mailto:karankumar314159@gmail.com" title="Email"><img alt="Gmail" src="https://cdn.simpleicons.org/gmail/EA4335" height="44" /></a>&nbsp;&nbsp;&nbsp;
+  <a href="https://karankumar.dev" target="_blank" rel="noopener noreferrer" title="Website"><img alt="Google Chrome" src="https://cdn.simpleicons.org/googlechrome/4285F4" height="44" /></a>
 </p>
 
 
