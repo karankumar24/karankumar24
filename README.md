@@ -10,17 +10,16 @@ I like working on problems that look simple until you try them. Sometimes that m
 </p>
 
 <h3 align="left">Connect with me:</h3>
+
 <p align="left">
-  <a href="https://www.linkedin.com/in/karan-kumar-904141372" target="_blank" rel="noopener noreferrer" title="LinkedIn">
-    <img src="https://cdn.simpleicons.org/linkedin/0A66C2" height="40" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/karan-kumar-904141372" target="_blank" rel="noopener noreferrer">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <a href="mailto:karankumar314159@gmail.com" title="Email">
-    <img src="https://cdn.simpleicons.org/gmail/EA4335" height="40" alt="Gmail" />
+  <a href="mailto:karankumar314159@gmail.com">
+    <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://karankumar.dev" target="_blank" rel="noopener noreferrer" title="Website">
-    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" height="40" alt="Website" />
+  <a href="https://karankumar.dev" target="_blank" rel="noopener noreferrer">
+    <img alt="Website" src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
   </a>
 </p>
 
