@@ -9,7 +9,7 @@
 I like working on problems that look simple until you try them. Sometimes that means figuring out how to get an AI to read research papers and actually write usable lab protocols. Sometimes it’s scraping ten years of stock prices to find patterns and try to guess what happens next. Lately, I’ve been working on ways to make tough conversations like asking for a raise or buying a car a little less stressful using real-time AI advice.
 </p>
 
-# Projects
+### Projects
 | Project | Product | Repo | What it does | Focus |
 | --- | --- | --- | --- | --- |
 | **Tensa** | [Website](https://tensaa.vercel.app) | Private | AI calisthenics form coach: real-time pose detection + LLM feedback to improve technique and consistency. | CV + LLM • Next.js • Supabase • Stripe |
