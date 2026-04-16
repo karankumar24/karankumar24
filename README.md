@@ -9,9 +9,9 @@ I like working on problems that look simple until you try them. Sometimes that m
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| **[Tensa](https://tensaa.vercel.app)** | Watches your form as you train and tells you what to fix, so you can stop guessing and improve faster. | MediaPipe Pose, Next.js, Supabase, Stripe |
-| **[Haggl](https://haggl.vercel.app)** | Helps you get ready for a negotiation, guides you through it in the moment, and shows you how to do better next time. | Next.js, NextAuth, Drizzle, Neon |
-| **[LabOS](https://labprotocols.vercel.app)** | Turns research papers into clear lab instructions, checks for safety issues, and keeps everything in one place. | FastAPI, pgvector, RAG, safety checks |
+| **[Tensa](https://tensaa.vercel.app)** | Helps calisthenics athletes improve form in real time. | MediaPipe Pose, Next.js, Supabase, Stripe |
+| **[Haggl](https://haggl.vercel.app)** | Guides you before, during, and after negotiations. | Next.js, NextAuth, Drizzle, Neon |
+| **[LabOS](https://labprotocols.vercel.app)** | Turns research papers into lab instructions. | FastAPI, pgvector, RAG, safety checks |
 
 <h3 align="left">Connect with me:</h3>
 
