@@ -12,9 +12,9 @@ I like working on problems that look simple until you try them. Sometimes that m
 ### Projects:
 | Project | Product | Repo | What it does | Focus |
 | --- | --- | --- | --- | --- |
-| **Tensa** | [Website](https://tensaa.vercel.app) | Private | AI calisthenics form coach: real-time pose detection + LLM feedback to improve technique and consistency. | CV + LLM • Next.js • Supabase • Stripe |
-| **Haggl** | [Website](https://haggl.vercel.app) | Private | Turn-by-turn negotiation copilot (salary focused): strategy prep, live coaching, and post-review analysis. | Product UX • LLM logic • Next.js • Drizzle |
-| **LabOS** | [Website](https://labprotocols.vercel.app) | Private | Private (`pdfProtocols`) | PDF → lab protocol pipeline: parse methods, generate step-by-step protocols, safety validation, and RAG-backed recall. | FastAPI • RAG/pgvector • eval/safety |
+| **Tensa (MoveAI)** | [Website](https://tensaa.vercel.app) | Private | A calisthenics coach that watches your form through your camera and tells you what to fix—like depth, balance, and alignment—so you improve faster and train safer. | Real‑time feedback • AI coaching • Web app |
+| **Haggl** | [Website](https://haggl.vercel.app) | Private | A negotiation coach for salary talks and big purchases. It helps you plan a strategy, guides you turn‑by‑turn during the conversation, and then reviews how you did so you can improve next time. | Live coaching • Strategy + review • Product UX |
+| **LabOS** | [Website](https://labprotocols.vercel.app) | Private | Upload a research paper and LabOS turns the “Methods” section into a clear, step‑by‑step lab protocol you can actually follow. It also flags safety issues and builds a searchable library so you can reuse what works. | Paper → workflow • Safety checks • Searchable knowledge base |
 
 <h3 align="left">Connect with me:</h3>
 
