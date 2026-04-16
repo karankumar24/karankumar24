@@ -28,7 +28,6 @@ I like working on problems that look simple until you try them. Sometimes that m
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-111111?style=for-the-badge&logo=anthropic&logoColor=white" />
   <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
   <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
@@ -37,6 +36,7 @@ I like working on problems that look simple until you try them. Sometimes that m
   <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
   <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
+  <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-111111?style=for-the-badge&logo=anthropic&logoColor=white" />
 </p>
 
 <h3 align="left">Contributions:</h3>
