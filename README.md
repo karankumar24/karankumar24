@@ -5,7 +5,7 @@
 I like working on problems that look simple until you try them. Sometimes that means figuring out how to get an AI to read research papers and turn them into usable lab protocols. Sometimes it’s scraping ten years of stock prices to find patterns and guess what happens next. Lately, I’ve been working on ways to make tough conversations like asking for a raise or buying a car a little less stressful using real-time AI advice.
 </p>
 
-### Projects
+### Featured Projects:
 
 | Project | What it does | Stack |
 | --- | --- | --- |
