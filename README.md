@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Karan Kumar</h1>
-<h3 align="center">A passionate developer and student from Modesto, California.</h3>
+<h3 align="center">Building AI tools for labs, negotiations, and messy real-world decisions.</h3>
 
 <p>
-I like working on problems that look simple until you try them. Sometimes that means getting an AI to read research papers and turn them into usable lab protocols. Sometimes it means scraping ten years of stock prices to look for patterns. Lately, I’ve been working on ways to make stressful conversations like asking for a raise or buying a car a little easier with real-time AI advice.
+I like working on problems that look simple until you try them. Sometimes that means figuring out how to get an AI to read research papers and turn them into usable lab protocols. Sometimes it’s scraping ten years of stock prices to find patterns and guess what happens next. Lately, I’ve been working on ways to make tough conversations like asking for a raise or buying a car a little less stressful using real-time AI advice.
 </p>
 
 ### Projects:
-| Project | What it does | Focus |
+| Project | What it does | Stack |
 | --- | --- | --- |
-| **Tensa** · [Website](https://tensaa.vercel.app) | Uses your camera to check your calisthenics form and suggest fixes. | MediaPipe Pose • Next.js • Supabase • Stripe |
-| **Haggl** · [Website](https://haggl.vercel.app) | Helps you plan negotiations, tells you what to say next, then reviews the outcome. | Next.js • NextAuth • Drizzle • Neon • Stripe |
-| **LabOS** · [Website](https://labprotocols.vercel.app) | Turns research PDFs into step-by-step lab protocols and saves them for later. | FastAPI • pgvector • RAG • Safety checks |
+| **Tensa** · [Website](https://tensaa.vercel.app) | Uses your camera to check your calisthenics form and suggest fixes. | MediaPipe Pose, Next.js, Supabase, Stripe |
+| **Haggl** · [Website](https://haggl.vercel.app) | Helps you plan negotiations, tells you what to say next, then reviews the outcome. | Next.js, NextAuth, Drizzle, Neon, Stripe |
+| **LabOS** · [Website](https://labprotocols.vercel.app) | Turns research PDFs into step-by-step lab protocols and saves them for later. | FastAPI, pgvector, RAG, safety checks |
 
 <h3 align="left">Connect with me:</h3>
 
