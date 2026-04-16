@@ -5,13 +5,13 @@
 I like working on problems that look simple until you try them. Sometimes that means figuring out how to get an AI to read research papers and turn them into usable lab protocols. Sometimes it’s scraping ten years of stock prices to find patterns and guess what happens next. Lately, I’ve been working on ways to make tough conversations like asking for a raise or buying a car a little less stressful using real-time AI advice.
 </p>
 
-### Projects:
+### Projects
 
 | Project | What it does | Stack |
 | --- | --- | --- |
-| **[Tensa](https://tensaa.vercel.app)** | Uses your camera to check your calisthenics form and suggest fixes. | MediaPipe Pose, Next.js, Supabase, Stripe |
-| **[Haggl](https://haggl.vercel.app)** | Helps you plan negotiations, suggests what to say next, then reviews the outcome. | Next.js, NextAuth, Drizzle, Neon |
-| **[LabOS](https://labprotocols.vercel.app)** | Turns research PDFs into step-by-step lab protocols and saves them for later. | FastAPI, pgvector, RAG, safety checks |
+| **[Tensa](https://tensaa.vercel.app)** | Watches your form as you train and tells you what to fix, so you can stop guessing and improve faster. | MediaPipe Pose, Next.js, Supabase, Stripe |
+| **[Haggl](https://haggl.vercel.app)** | Helps you get ready for a negotiation, guides you through it in the moment, and shows you how to do better next time. | Next.js, NextAuth, Drizzle, Neon |
+| **[LabOS](https://labprotocols.vercel.app)** | Turns research papers into clear lab instructions, checks for safety issues, and keeps everything in one place. | FastAPI, pgvector, RAG, safety checks |
 
 <h3 align="left">Connect with me:</h3>
 
