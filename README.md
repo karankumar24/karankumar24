@@ -1,17 +1,15 @@
 [karankumar.dev](https://karankumar.dev) · [LinkedIn](https://linkedin.com/in/karan-kumar-904141372) · [Email](mailto:karankumar314159@gmail.com)
 
-## TL;DR
+## Projects
 
-- CS student in Modesto, looking for summer 2026 CV/ML internships
-- Building **[Tensa](https://tensaa.vercel.app)**, a browser-CV calisthenics form coach
-- Building **[Haggl](https://haggl.vercel.app)**, an AI negotiation copilot
-- Building **[LabOS](https://labprotocols.vercel.app)**, research papers to wet-lab protocols
-- Maintaining **[skill-triage](https://github.com/karankumar24/skill-triage)**, **[claudex](https://github.com/karankumar24/claudex)**, **[evidence-engine](https://github.com/karankumar24/evidence-engine)**
+- **[Tensa](https://tensaa.vercel.app)** - Calisthenics form coach for people who tweak their shoulders on archer push-ups (like me). Webcam in, rep count + form score out. All in-browser.
+- **[Haggl](https://haggl.vercel.app)** - Negotiation copilot for people who freeze up. Routes each phase to a different LLM via OpenRouter. Falls through to a backup when free models cap out.
+- **[LabOS](https://labprotocols.vercel.app)** - Research papers in, runnable wet-lab protocols out. Validates each protocol against rules, an LLM safety officer, and your equipment list before export.
 
-## More on the projects
+## Open Source
 
-**Tensa** counts and grades calisthenics reps from your webcam. 14 movements, all in-browser. Built after I tweaked my shoulder on an archer push-up.
+- **[skill-triage](https://github.com/karankumar24/skill-triage)** - Picks which Claude Code skill matches a task
+- **[claudex](https://github.com/karankumar24/claudex)** - Failover wrapper between Claude Code and Codex CLI
+- **[evidence-engine](https://github.com/karankumar24/evidence-engine)** - Biomedical fact-checker with retrieval pipeline and eval harness
 
-**Haggl** coaches you through live negotiations. Routes each phase to a different LLM via OpenRouter. Falls through to a backup when free models cap out.
-
-**LabOS** turns research papers into runnable wet-lab protocols. Validates each one against rules, an LLM safety officer, and your equipment list before export.
+Looking for summer 2026 CV/ML internships.
