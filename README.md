@@ -1,6 +1,4 @@
-Coding for the love of the game.
-
-[karankumar.dev](https://karankumar.dev) · [LinkedIn](https://linkedin.com/in/karan-kumar-904141372) · [karankumar314159@gmail.com](mailto:karankumar314159@gmail.com)
+[karankumar.dev](https://karankumar.dev) · [LinkedIn](https://linkedin.com/in/karan-kumar-904141372) · [Email](mailto:karankumar314159@gmail.com)
 
 ## Projects
 
