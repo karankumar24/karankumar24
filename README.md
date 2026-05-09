@@ -1,31 +1,17 @@
-# Karan Kumar
+Coding for the love of the game.
 
-CS student in Modesto. Just coding for the love of the game.
+[karankumar.dev](https://karankumar.dev) · [LinkedIn](https://linkedin.com/in/karan-kumar-904141372) · [karankumar314159@gmail.com](mailto:karankumar314159@gmail.com)
 
 ## Projects
 
-### [Tensa](https://tensaa.vercel.app)
-Started this after tweaking my shoulder on an archer push-up. Counts and grades calisthenics reps from your webcam. 14 movements, runs entirely in-browser.
-*Next.js, MediaPipe, Supabase*
+- **[Tensa](https://tensaa.vercel.app)** - Calisthenics form coach for people who tweak their shoulders on archer push-ups (like me). Webcam in, rep count + form score out. All in-browser. *MediaPipe, Next.js, Supabase, Drizzle*
+- **[Haggl](https://haggl.vercel.app)** - Negotiation copilot for people who freeze up. Routes each phase to a different LLM via OpenRouter. Falls through to a backup when free models cap out. *Stripe, Drizzle, Neon, NextAuth, Next.js*
+- **[LabOS](https://labprotocols.vercel.app)** - Research papers in, runnable wet-lab protocols out. Validates each protocol against rules, an LLM safety officer, and your equipment list before export. *pgvector, FastAPI, Gemini, Alembic*
 
-### [Haggl](https://haggl.vercel.app)
-Coaches you through live negotiations. Routes each phase to a different LLM via OpenRouter. Falls through to a backup when the free model caps out.
-*Next.js, NextAuth, Drizzle, Neon, Stripe*
+## Open Source
 
-### [LabOS](https://labprotocols.vercel.app)
-Turns research papers into runnable wet-lab protocols. Checks every protocol against rules, an LLM safety officer, and your equipment before export. Embeds accepted protocols back into the pgvector index for reuse.
-*FastAPI, pgvector, Gemini, Alembic*
-
-## Open source
-
-**[skill-triage](https://github.com/karankumar24/skill-triage)** picks which Claude Code skill matches a task.
-
-**[claudex](https://github.com/karankumar24/claudex)** is a failover wrapper between Claude Code and Codex CLI.
-
-**[evidence-engine](https://github.com/karankumar24/evidence-engine)** checks biomedical claims with a retrieval pipeline and an eval harness.
-
-## Find me
-
-[karankumar.dev](https://karankumar.dev) · [LinkedIn](https://linkedin.com/in/karan-kumar-904141372) · karankumar314159@gmail.com
+- **[skill-triage](https://github.com/karankumar24/skill-triage)** - Picks which Claude Code skill matches a task
+- **[claudex](https://github.com/karankumar24/claudex)** - Failover wrapper between Claude Code and Codex CLI
+- **[evidence-engine](https://github.com/karankumar24/evidence-engine)** - Biomedical fact-checker with retrieval pipeline and eval harness
 
 Looking for summer 2026 CV/ML internships.
