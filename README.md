@@ -1,54 +1,31 @@
-<h1 align="center">Hi 👋, I'm Karan Kumar</h1>
-<h3 align="center">A passionate developer and student from Modesto, California.</h3>
+# Karan Kumar
 
-<p>
-I like working on problems that look simple until you try them. Sometimes that means figuring out how to get an AI to read research papers and turn them into usable lab protocols. Sometimes it’s scraping ten years of stock prices to find patterns and guess what happens next. Lately, I’ve been working on ways to make tough conversations like asking for a raise or buying a car a little less stressful using real-time AI advice.
-</p>
+CS student in Modesto. Just coding for the love of the game.
 
-### Featured Projects:
+## Projects
 
-| Project | What it does | Stack |
-| --- | --- | --- |
-| **[Tensa](https://tensaa.vercel.app)** | Helps calisthenics athletes improve form and catch mistakes while they train. | MediaPipe Pose, Supabase, Stripe |
-| **[Haggl](https://haggl.vercel.app)** | Guides you before, during, and after negotiations with help you can use in the moment. | NextAuth, Drizzle, Neon |
-| **[LabOS](https://labprotocols.vercel.app)** | Turns research papers into clear lab instructions with built-in safety checks. | FastAPI, pgvector, RAG |
+### [Tensa](https://tensaa.vercel.app)
+Started this after tweaking my shoulder on an archer push-up. Counts and grades calisthenics reps from your webcam. 14 movements, runs entirely in-browser.
+*Next.js, MediaPipe, Supabase*
 
-<h3 align="left">Connect with me:</h3>
+### [Haggl](https://haggl.vercel.app)
+Coaches you through live negotiations. Routes each phase to a different LLM via OpenRouter. Falls through to a backup when the free model caps out.
+*Next.js, NextAuth, Drizzle, Neon, Stripe*
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/karan-kumar-904141372" target="_blank" rel="noopener noreferrer">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:karankumar314159@gmail.com">
-    <img alt="Email" src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://karankumar.dev" target="_blank" rel="noopener noreferrer">
-    <img alt="Website" src="https://img.shields.io/badge/Website-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" />
-  </a>
-</p>
+### [LabOS](https://labprotocols.vercel.app)
+Turns research papers into runnable wet-lab protocols. Checks every protocol against rules, an LLM safety officer, and your equipment before export. Embeds accepted protocols back into the pgvector index for reuse.
+*FastAPI, pgvector, Gemini, Alembic*
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img alt="Python" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" />
-  <img alt="FastAPI" src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
-  <img alt="Supabase" src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img alt="Git" src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="Pandas" src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img alt="NumPy" src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img alt="Claude Code" src="https://img.shields.io/badge/Claude%20Code-111111?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
-  <img alt="Clerk" src="https://img.shields.io/badge/Clerk-6C47FF?style=for-the-badge&logo=clerk&logoColor=white" />
-  <img alt="Stripe" src="https://img.shields.io/badge/Stripe-635BFF?style=for-the-badge&logo=stripe&logoColor=white" />
-</p>
+## Open source
 
-<h3 align="left">Contributions:</h3>
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karankumar24&theme=light" alt="GitHub streak stats" />
-  <br/>
-</p>
+**[skill-triage](https://github.com/karankumar24/skill-triage)** picks which Claude Code skill matches a task.
 
-<p>
-Open to internships and collaboration in AI/ML and computer science.
-</p>
+**[claudex](https://github.com/karankumar24/claudex)** is a failover wrapper between Claude Code and Codex CLI.
+
+**[evidence-engine](https://github.com/karankumar24/evidence-engine)** checks biomedical claims with a retrieval pipeline and an eval harness.
+
+## Find me
+
+[karankumar.dev](https://karankumar.dev) · [LinkedIn](https://linkedin.com/in/karan-kumar-904141372) · karankumar314159@gmail.com
+
+Looking for summer 2026 CV/ML internships.
