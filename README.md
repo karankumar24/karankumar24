@@ -1,4 +1,4 @@
-[karankumar.dev](https://karankumar.dev) · [LinkedIn](https://linkedin.com/in/karan-kumar-904141372) · [Email](mailto:karankumar314159@gmail.com)
+[Portfolio](https://karankumar.dev) · [LinkedIn](https://linkedin.com/in/karan-kumar-904141372) · [Email](mailto:karankumar314159@gmail.com)
 
 Most things I make start as "I wish this existed." Three on the bench right now:
 
