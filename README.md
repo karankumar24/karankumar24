@@ -9,7 +9,3 @@ Most things I make start as "I wish this existed." Three on the bench right now:
 A few smaller open source bits too: **[skill-triage](https://github.com/karankumar24/skill-triage)**, **[claudex](https://github.com/karankumar24/claudex)**, and **[evidence-engine](https://github.com/karankumar24/evidence-engine)**.
 
 Open to a summer 2026 CV/ML internship if you're hiring.
-
-
-
-Remove the underlines from all the links and keep those links as they are. I just don't want to see the underlines. 
