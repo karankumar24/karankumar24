@@ -7,5 +7,3 @@ Most things I make start as "I wish this existed." Three on the bench right now:
 - **[LabOS](https://labprotocols.vercel.app)** - research papers to runnable wet-lab protocols. Validates each one against rules, an LLM safety officer, and your equipment list before export.
 
 A few smaller open source bits too: **[skill-triage](https://github.com/karankumar24/skill-triage)**, **[claudex](https://github.com/karankumar24/claudex)**, and **[evidence-engine](https://github.com/karankumar24/evidence-engine)**.
-
-Open to a summer 2026 CV/ML internship if you're hiring.
